@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Proefvelden</name>
+    <Style id="icon-1899-E65100-nodesc-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-E65100-nodesc-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Maalderijstraat 1 - bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.914746,51.018665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bovekerkemolenstraat 6 - aardappel</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.96342,51.045074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burgemeester van Ackerestraat 12 - aardappel</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.980724,51.049452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kaaistraat 1 - aardappel</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.948365,51.041832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hoenderveldstraat 22 - aardappel</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.514016,51.003112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prieelstraat - aardappel</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.4243023,51.1165367,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oost Poezelstraat - Bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.848997,50.935091,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vijfhuishoekstraat - spinazie</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.059258,51.031485,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grammenestraat - bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.478028,50.966932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vaarzeelstraat - Spinazie</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.521903,51.021969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harelbekestraat - spinazie</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.390917,50.867324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Caritasstraat - aardappel</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.785677,50.993695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Prolstraat - bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          2.808792,50.811346,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oosthoekstraat - spinazie</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.413372,50.939759,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Poekestraat - bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.4633621,51.0200935,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vulsteke - Bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.0586961,51.0162932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vanhoutte - Bloemkool</name>
+      <styleUrl>#icon-1899-E65100-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          3.4069897,50.9429334,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
